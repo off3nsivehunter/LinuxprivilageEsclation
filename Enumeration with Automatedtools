@@ -1,0 +1,9 @@
+Tools:
+
+linPEAS: https://github.com/carlospolop/PEASS-ng.git
+
+LinEnum: https://github.com/rebootuser/LinEnum.git
+
+Linux Exploit Suggester: https://github.com/mzet-/linux-exploit-suggester.git
+
+Linux Priv Checker: https://github.com/sleventyeleven/linuxprivchecker.git
